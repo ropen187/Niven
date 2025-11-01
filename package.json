@@ -1,0 +1,14 @@
+{
+  "name": "niven-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "pino": "^9.0.0",
+    "openai": "^4.0.0"
+  }
+}
